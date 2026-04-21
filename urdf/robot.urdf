@@ -29,7 +29,7 @@
     <axis xyz="0.00000000 0.00000000 1.00000000"/>
   </joint>
   <joint name="joint_5" type="revolute">
-    <limit lower="-6.28318531" upper="6.28318531" effort="34.00000000" velocity="7.33038286"/>
+    <limit lower="-2.26892798" upper="2.26892798" effort="34.00000000" velocity="7.33038286"/>
     <origin rpy="-1.57079633 0.00000000 0.00000000" xyz="0.00000000 -0.07880000 0.27180000"/>
     <parent link="link_4"/>
     <child link="link_5"/>
